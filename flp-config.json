@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "sap.m.PrintPOC.PrintPOC",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#PrintPOC-Display",
+        "navigationComponentName": "sap.m.PrintPOC",
+        "intentSemanticObject": "PrintPOC",
+        "intentAction": "Display",
+        "html5ApplicationName": "printpoc0808",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "d8d4a85a-1134-431f-a62e-889926b4aefc"
+        ],
+        "contentPackages": [
+            "886f02af-fd79-43f6-816e-176d8309602e"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "0813",
+        "subtitle": "",
+        "searchKeywords": "0813,",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
